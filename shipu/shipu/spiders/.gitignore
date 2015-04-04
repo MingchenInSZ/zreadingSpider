@@ -1,2 +1,4 @@
 /__init__.pyc
 /shipuSpider.pyc
+
+*.pyc
